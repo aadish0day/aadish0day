@@ -1,19 +1,28 @@
 # Hey, I'm Aadish! 👋
 
-I'm a developer focused on optimizing workflows, building high-performance projects, and diving deep into the mysteries of memory management. Oh, and along the way, I'm all about creating some really awesome software.
+I'm a software developer specializing in workflow optimization, high-performance application development, and systems programming with a particular focus on memory management. I build reliable, efficient software solutions while maintaining a passion for clean code and elegant architectures.
 
-### Fun Facts:
-- Proud Arch Linux user btw. Yes, I had to mention it. 🎩
-- Neovim enthusiast — because who doesn’t want to wield their keyboard like a true wizard? ⌨️✨ Check out my [Neovim config](https://github.com/aadish0day/neovim.git)!
-- I've probably spent more time configuring my editor than writing code (it's all part of the process!).
-- I break things just to fix them better. Consider it "trial by fire." 
-- Still figuring out why my code works... when it does.
+## Technical Philosophy
+- **Arch Linux user** — because choosing your own adventure extends to operating systems 🐧
+- **Neovim advocate** — transforming text editing into an art form with [my custom configuration](https://github.com/aadish0day/neovim.git) ⌨️
+- **Configuration enthusiast** — I believe the right development environment is half the battle won
+- **Iterative problem solver** — I embrace the "break it to understand it" methodology
+- **Pragmatic developer** — writing code that works, then making it work better
 
-### What I’m working on:
-- 🔭 Perfecting my dotfiles to make them the gold standard for developer setups. [Dotfiles Repo](https://github.com/aadish0day/dotfile.git)! 🔧
-- 🌱 Learning to tackle memory management like a pro (while avoiding those pesky leaks).
-- 💬 Ask me why I prefer Neovim over IDEs — but bring coffee, it’s a long conversation.
-- 🛠 Building performant software that probably won’t crash... at least, most of the time.
+## Current Focus Areas
+🔭 **Developer Tooling**: Crafting and refining [dotfiles](https://github.com/aadish0day/dotfile.git) for optimal development workflows
 
-### Find me:
-- 🖥 On my terminal, obviously.
+🌱 **Systems Programming**: Deep-diving into memory management patterns and performance optimization techniques
+
+🛠 **Software Architecture**: Building robust, scalable applications with emphasis on reliability and maintainability
+
+💬 **Developer Experience**: Always happy to discuss the merits of terminal-based development workflows (coffee recommended for extended conversations)
+
+## Professional Interests
+- Performance optimization and profiling
+- Developer productivity tools and automation
+- System-level programming and resource management
+- Open source contribution and community building
+
+---
+*Currently residing in my terminal, where the real work happens.*
