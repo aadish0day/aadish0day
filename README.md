@@ -51,7 +51,6 @@ I'm a software developer and security enthusiast specializing in **Systems Progr
 | [**trading_bot**](https://github.com/aadish0day/trading_bot) | Binance Futures CLI bot for market and limit orders. | `Python` |
 | [**Lab**](https://github.com/aadish0day/Lab) | Self-hosted infra — Immich, Jellyfin, Pi-hole, Stirling PDF. | `Docker` |
 | [**Bandit**](https://github.com/aadish0day/Bandit) | OverTheWire Bandit wargame walkthrough (33 levels). | `Security` |
-| [**CBBH**](https://github.com/aadish0day/CBBH) | Certified Bug Bounty Hunter study notes (20 modules). | `Security` |
 
 ## 🧠 Technical Philosophy
 - **Arch Linux user** — because choosing your own adventure extends to operating systems 🐧
