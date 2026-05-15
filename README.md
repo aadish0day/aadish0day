@@ -13,9 +13,9 @@ I'm a software developer and security enthusiast specializing in **Systems Progr
 ## 🚀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadish0day&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadish0day&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadish0day&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadish0day&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=aadish0day&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
