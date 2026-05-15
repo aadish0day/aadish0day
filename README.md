@@ -38,48 +38,20 @@ I'm a software developer and security enthusiast specializing in **Systems Progr
 
 ## 📂 Highlighted Projects
 
-### Systems & Tooling
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**neovim**](https://github.com/aadish0day/neovim) | Full-featured Neovim config with LSP, AI, DAP, and Obsidian integration. | `Lua` |
+| [**neovim**](https://github.com/aadish0day/neovim) | Full-featured Neovim config with LSP, AI, DAP, and Obsidian. | `Lua` |
 | [**dotfile**](https://github.com/aadish0day/dotfile) | Dotfiles for i3, Hyprland, bspwm, zsh, tmux, polybar, kitty, and more. | `Shell` |
-| [**post_install**](https://github.com/aadish0day/post_install) | Post-install automation for Arch, Debian, Fedora, Kali, and Termux. | `Shell` |
-| [**wallpaper**](https://github.com/aadish0day/wallpaper) | Personal wallpaper collection with auto-rename script. | `Shell` |
-
-### Web Apps
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Virasat_QR**](https://github.com/aadish0day/Virasat_QR) | Heritage exploration app with maps, reviews, QR sharing, and PWA support. | `React` `TS` `Leaflet` |
-| [**Weather-Web-App**](https://github.com/aadish0day/Weather-Web-App) | Real-time weather dashboard with 5-day forecast and geolocation. | `React` `TS` `Tailwind` |
-| [**Typing-Speed-Test-Web-App**](https://github.com/aadish0day/Typing-Speed-Test-Web-App) | Typing speed test with live WPM, accuracy tracking, and timed quotes. | `React` `TS` `Tailwind` |
-| [**Tic-Tac-Toe-Web-App**](https://github.com/aadish0day/Tic-Tac-Toe-Web-App) | Tic-tac-toe with unbeatable Minimax AI and score persistence. | `React` `TS` `Tailwind` |
-| [**Stopwatch-Web**](https://github.com/aadish0day/Stopwatch-Web) | High-precision stopwatch with lap tracking and glassmorphism UI. | `React` `TS` `Tailwind` |
-| [**Password-Generator-Web-App**](https://github.com/aadish0day/Password-Generator-Web-App) | Cryptographically secure password generator with strength meter. | `React` `TS` `Tailwind` |
-| [**Dynamic-Navigation-Menu**](https://github.com/aadish0day/Dynamic-Navigation-Menu) | Landing page template with glassmorphism navbar and smooth scrolling. | `React` `TS` `Tailwind` |
+| [**post_install**](https://github.com/aadish0day/post_install) | Post-install automation for 5 Linux distributions and Termux. | `Shell` |
+| [**Virasat_QR**](https://github.com/aadish0day/Virasat_QR) | Heritage exploration app with maps, reviews, QR sharing, and PWA. | `React` `TS` `Leaflet` |
 | [**mermaid**](https://github.com/aadish0day/mermaid) | Interactive Mermaid diagram editor with live preview and export. | `React` `TS` `Mermaid` |
-| [**Spendly**](https://github.com/aadish0day/Spendly) | Personal finance manager for tracking expenses and budgets. | `React` `TS` `Supabase` |
-
-### Infrastructure & Security
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Lab**](https://github.com/aadish0day/Lab) | Self-hosted infrastructure — Immich, Jellyfin, Pi-hole, Stirling PDF, and more. | `Docker` `Compose` |
-| [**Bandit**](https://github.com/aadish0day/Bandit) | OverTheWire Bandit wargame walkthrough (33 levels). | `Security` `Linux` |
+| [**Weather-Web-App**](https://github.com/aadish0day/Weather-Web-App) | Weather dashboard with 5-day forecast and geolocation. | `React` `TS` `Tailwind` |
+| [**lost-found-portal**](https://github.com/aadish0day/lost-found-portal) | Campus lost & found management with Next.js and Prisma. | `Next.js` `TS` `Pg` |
+| [**smart_task_manager**](https://github.com/aadish0day/smart_task_manager) | Flask task manager with WebSockets, auth, and Pandas analytics. | `Python` `Flask` |
+| [**trading_bot**](https://github.com/aadish0day/trading_bot) | Binance Futures CLI bot for market and limit orders. | `Python` |
+| [**Lab**](https://github.com/aadish0day/Lab) | Self-hosted infra — Immich, Jellyfin, Pi-hole, Stirling PDF. | `Docker` |
+| [**Bandit**](https://github.com/aadish0day/Bandit) | OverTheWire Bandit wargame walkthrough (33 levels). | `Security` |
 | [**CBBH**](https://github.com/aadish0day/CBBH) | Certified Bug Bounty Hunter study notes (20 modules). | `Security` |
-| [**lost-found-portal**](https://github.com/aadish0day/lost-found-portal) | Campus lost & found management with Next.js and Prisma. | `Next.js` `TS` `PostgreSQL` |
-| [**trading_bot**](https://github.com/aadish0day/trading_bot) | Binance Futures trading bot CLI for market and limit orders. | `Python` |
-| [**smart_task_manager**](https://github.com/aadish0day/smart_task_manager) | Flask task manager with WebSocket notifications and analytics. | `Python` `Flask` `SocketIO` |
-
-### Academic
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**code_collage**](https://github.com/aadish0day/code_collage) | Junior college lab assignments in HTML, JavaScript, and PHP. | `HTML` `JS` `PHP` |
-| [**net**](https://github.com/aadish0day/net) | ASP.NET/C# college lab practicals. | `C#` `ASP.NET` |
-| [**lost_java**](https://github.com/aadish0day/lost_java) | Desktop lost & found app built with Java AWT/Swing. | `Java` |
-| [**messagebox**](https://github.com/aadish0day/messagebox) | Python Tkinter registration form with MySQL backend. | `Python` `Tkinter` |
 
 ## 🧠 Technical Philosophy
 - **Arch Linux user** — because choosing your own adventure extends to operating systems 🐧
