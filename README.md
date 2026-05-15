@@ -13,9 +13,30 @@ I'm a software developer and security enthusiast specializing in **Systems Progr
 ## 🚀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadish0day&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=aadish0day&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Badges row -->
+<a href="https://github.com/aadish0day">
+  <img src="https://img.shields.io/github/followers/aadish0day?style=for-the-badge&logo=github&label=followers&color=BF91F3" />
+</a>
+<a href="https://github.com/aadish0day">
+  <img src="https://img.shields.io/github/stars/aadish0day?style=for-the-badge&logo=github&label=stars&color=70A5FD" />
+</a>
+<a href="https://github.com/aadish0day/aadish0day">
+  <img src="https://img.shields.io/github/last-commit/aadish0day/aadish0day?style=for-the-badge&logo=github&label=last%20updated&color=38BDAE" />
+</a>
+<a href="https://github.com/aadish0day/aadish0day">
+  <img src="https://img.shields.io/github/commit-activity/m/aadish0day/aadish0day?style=for-the-badge&logo=github&label=commits&color=FF6B6B" />
+</a>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=aadish0day&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadish0day&theme=tokyonight&hide_border=true&area=true&radius=6" alt="GitHub Activity Graph" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=aadish0day&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+
 </div>
 
 ## 📂 Highlighted Projects
