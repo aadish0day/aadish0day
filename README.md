@@ -34,9 +34,6 @@ I'm a software developer and security enthusiast specializing in **Systems Progr
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadish0day&theme=tokyonight&hide_border=true&area=true&radius=6" alt="GitHub Activity Graph" />
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=aadish0day&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-
 </div>
 
 ## 📂 Highlighted Projects
