@@ -25,7 +25,7 @@ I'm a software developer and security enthusiast specializing in **Systems Progr
 | :--- | :--- | :--- |
 | [**neovim**](https://github.com/aadish0day/neovim) | Custom Neovim configuration for a high-performance workflow. | `Lua` `Vim` |
 | [**dotfile**](https://github.com/aadish0day/dotfile) | Complete system configuration and automation scripts. | `Shell` `Bash` |
-| [**post_install**](https://github.com/aadish0day/post_install) | Automation script for setting up a fresh Arch Linux system. | `Shell` `Bash` |
+| [**post_install**](https://github.com/aadish0day/post_install) | Post-install automation for Arch, Debian, Fedora, Kali, and Termux. | `Shell` `Bash` |
 | [**Lab**](https://github.com/aadish0day/Lab) | Self-hosted infrastructure and cyber lab environment managed with Docker Compose. | `Docker` `Shell` |
 | [**Bandit**](https://github.com/aadish0day/Bandit) | Comprehensive walkthrough and personal notes for OverTheWire's Bandit wargame. | `Security` `Shell` |
 
