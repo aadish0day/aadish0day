@@ -9,8 +9,8 @@
   </a>
 </p>
 
-<pre align="left"><code>┌──(aadish0day@archlinux)-[~/home/aadish]
-└─$ neovim --status -> [NORMAL] LuaJIT 2.1 | C/C++ Systems | Cyber Security Mode [ACTIVE]</code></pre>
+<pre align="left"><code><font color="#70A5FD">┌──(</font><font color="#BF91F3"><b>aadish0day</b></font><font color="#38BDAE"><b>@archlinux</b></font><font color="#70A5FD">)-[</font><font color="#E0AF68"><b>~/home/aadish</b></font><font color="#70A5FD">]</font>
+<font color="#70A5FD">└─$</font> <font color="#9ECE6A"><b>neovim</b></font> <font color="#BB9AF7">--status</font> <font color="#7AA2F7">→</font> <font color="#70A5FD"><b>[NORMAL]</b></font> <font color="#38BDAE">LuaJIT 2.1</font> <font color="#565F89">|</font> <font color="#BB9AF7">C/C++ Systems</font> <font color="#565F89">|</font> <font color="#9ECE6A"><b>Cyber Security Mode [ACTIVE]</b></font></code></pre>
 
 [![Followers](https://img.shields.io/github/followers/aadish0day?style=for-the-badge&logo=github&label=Followers&color=70A5FD&labelColor=181825)](https://github.com/aadish0day)
 [![Stars](https://img.shields.io/github/stars/aadish0day?style=for-the-badge&logo=github&label=Total%20Stars&color=BF91F3&labelColor=181825)](https://github.com/aadish0day)
@@ -100,12 +100,7 @@ I am a software engineer focused on **Systems Programming**, **Cyber Security**,
 | [**dotfile**](https://github.com/aadish0day/dotfile) | Complete environment configs for i3, Hyprland, bspwm, zsh, tmux, kitty & polybar. | `Shell` | <img src="https://api.iconify.design/lucide/settings-2.svg?color=%23BF91F3&width=16&height=16" valign="middle" /> Linux / OS |
 | [**post_install**](https://github.com/aadish0day/post_install) | Automated post-installation script suite for 5 Linux distributions and Termux. | `Shell` | <img src="https://api.iconify.design/lucide/zap.svg?color=%23FF6B6B&width=16&height=16" valign="middle" /> Automation |
 | [**Bandit**](https://github.com/aadish0day/Bandit) | Complete walkthrough and solutions for OverTheWire Bandit wargames (33 levels). | `Security` `Bash` | <img src="https://api.iconify.design/lucide/swords.svg?color=%2338BDAE&width=16&height=16" valign="middle" /> Cyber Security |
-| [**Virasat_QR**](https://github.com/aadish0day/Virasat_QR) | Cultural heritage exploration PWA featuring interactive maps, reviews & QR sharing. | `React` `TS` `Leaflet` | <img src="https://api.iconify.design/lucide/globe-2.svg?color=%2370A5FD&width=16&height=16" valign="middle" /> Fullstack |
-| [**mermaid**](https://github.com/aadish0day/mermaid) | Interactive diagramming suite powered by Mermaid with live preview & export capabilities. | `React` `TS` `Mermaid` | <img src="https://api.iconify.design/lucide/layout.svg?color=%23BF91F3&width=16&height=16" valign="middle" /> Web App |
 | [**lost-found-portal**](https://github.com/aadish0day/lost-found-portal) | Campus asset management portal built with Next.js and Prisma ORM. | `Next.js` `TS` `PostgreSQL` | <img src="https://api.iconify.design/lucide/building-2.svg?color=%2338BDAE&width=16&height=16" valign="middle" /> Fullstack |
-| [**smart_task_manager**](https://github.com/aadish0day/smart_task_manager) | Flask task management platform with WebSockets, authentication, and analytics. | `Python` `Flask` `Pandas` | <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%23FF6B6B&width=16&height=16" valign="middle" /> Analytics |
-| [**trading_bot**](https://github.com/aadish0day/trading_bot) | Binance Futures CLI algorithmic trading bot supporting market and limit execution. | `Python` | <img src="https://api.iconify.design/lucide/trending-up.svg?color=%2370A5FD&width=16&height=16" valign="middle" /> Algorithmic |
-| [**Weather-Web-App**](https://github.com/aadish0day/Weather-Web-App) | Weather analytics dashboard with multi-day forecasting and geolocation. | `React` `TS` `Tailwind` | <img src="https://api.iconify.design/lucide/cloud-sun.svg?color=%23BF91F3&width=16&height=16" valign="middle" /> Web App |
 | [**Lab**](https://github.com/aadish0day/Lab) | Self-hosted infrastructure stack featuring Immich, Jellyfin, Pi-hole & Stirling PDF. | `Docker` | <img src="https://api.iconify.design/lucide/server.svg?color=%2338BDAE&width=16&height=16" valign="middle" /> DevOps / Infra |
 
 <br/>
