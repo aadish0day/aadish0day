@@ -7,10 +7,14 @@
   <a href="https://github.com/aadish0day">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vcenter=true&width=600&lines=Systems+Programming+%7C+Low-Level+C%2FC%2B%2B;Cyber+Security+%26+Vulnerability+Analysis;Arch+Linux+%26+Neovim+Power-User;Workflow+Optimization+%26+DevOps" alt="Typing Header" />
   </a>
-</p>
+</div>
 
-<pre align="left"><code><font color="#70A5FD">┌──(</font><font color="#BF91F3"><b>aadish0day</b></font><font color="#38BDAE"><b>@archlinux</b></font><font color="#70A5FD">)-[</font><font color="#E0AF68"><b>~/home/aadish</b></font><font color="#70A5FD">]</font>
-<font color="#70A5FD">└─$</font> <font color="#9ECE6A"><b>neovim</b></font> <font color="#BB9AF7">--status</font> <font color="#7AA2F7">→</font> <font color="#70A5FD"><b>[NORMAL]</b></font> <font color="#38BDAE">LuaJIT 2.1</font> <font color="#565F89">|</font> <font color="#BB9AF7">C/C++ Systems</font> <font color="#565F89">|</font> <font color="#9ECE6A"><b>Cyber Security Mode [ACTIVE]</b></font></code></pre>
+```console
+┌──(aadish0day@archlinux)-[~/home/aadish]
+└─$ neovim --status -> [NORMAL] LuaJIT 2.1 | C/C++ Systems | Cyber Security Mode [ACTIVE]
+```
+
+<div align="center">
 
 [![Followers](https://img.shields.io/github/followers/aadish0day?style=for-the-badge&logo=github&label=Followers&color=70A5FD&labelColor=181825)](https://github.com/aadish0day)
 [![Stars](https://img.shields.io/github/stars/aadish0day?style=for-the-badge&logo=github&label=Total%20Stars&color=BF91F3&labelColor=181825)](https://github.com/aadish0day)
